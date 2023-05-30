@@ -115,3 +115,30 @@ Using the google chrome extension lighthouse
 <details><summary><b>Source</b></summary>
 https://www.youtube.com/watch?v=mi_IOknMh5s&t=221s
 </details>
+
+### Theorical Question 7
+
+Do you know what hooks are in React ?
+
+<details><summary><b>Answer</b></summary>
+
+ React recommend using functions over classes , the thing is that classes have several things that classes have not, like state, for example in the class below we are remembering a variable count
+
+ ![Image](img/reeact_class_stateful.png "reeact_class_stateful.png")
+
+ To do something similar you need a hook, in order to store states in functions
+
+ ![Image](img/react_stateful_functions.png "react_stateful_functions.png")
+
+ count and setCount can be called as you prefer
+
+</details>
+
+<details><summary><b>Source</b></summary>
+https://www.twilio.com/blog/react-choose-functional-components
+
+https://react.dev/reference/react
+
+https://www.reddit.com/r/reactjs/comments/p9o49g/can_someone_explain_what_setloading_does_and_why/
+</details>
+
