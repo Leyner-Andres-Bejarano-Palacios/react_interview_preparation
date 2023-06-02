@@ -174,3 +174,21 @@ Do you know what Object Literal Enhancement is in React ?
 <details><summary><b>Source</b></summary>
 Alex Banks anf Eve Porcello learning React Pag 19
 </details>
+
+### Theorical Question 10
+
+Do you know what the spread operator is in React ?
+
+<details><summary><b>Answer</b></summary>
+
+ ![Image](img/spread_operator_part1.png "spread_operator_part1.png")
+
+ ![Image](img/spread_operator_part2.png "spread_operator_part2.png")
+
+ ![Image](img/spread_operator_part3.png "spread_operator_part3.png")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+Alex Banks anf Eve Porcello learning React Pag 19
+</details>
