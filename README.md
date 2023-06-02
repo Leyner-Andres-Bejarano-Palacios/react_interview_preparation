@@ -158,3 +158,19 @@ Do you know what Destructuring Assignment is in React ?
 Alex Banks anf Eve Porcello learning React Pag 19
 </details>
 
+
+### Theorical Question 9
+
+Do you know what Object Literal Enhancement is in React ?
+
+<details><summary><b>Answer</b></summary>
+
+ ![Image](img/object_literal_enhacement_part1.png "object_literal_enhacement_part1.png")
+
+ ![Image](img/object_enhacement_literal_part2.png "object_enhacement_literal_part2.png")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+Alex Banks anf Eve Porcello learning React Pag 19
+</details>
