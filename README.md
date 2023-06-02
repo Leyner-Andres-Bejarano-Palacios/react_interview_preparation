@@ -142,3 +142,19 @@ https://react.dev/reference/react
 https://www.reddit.com/r/reactjs/comments/p9o49g/can_someone_explain_what_setloading_does_and_why/
 </details>
 
+### Theorical Question 8
+
+Do you know what Destructuring Assignment is in React ?
+
+<details><summary><b>Answer</b></summary>
+
+ ![Image](img/deestructuring_assingment_part1.png "deestructuring_assingment_part1.png")
+
+ ![Image](img/deestructuring_assigment_part2.png "deestructuring_assigment_part2.png")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+Alex Banks anf Eve Porcello learning React Pag 19
+</details>
+
