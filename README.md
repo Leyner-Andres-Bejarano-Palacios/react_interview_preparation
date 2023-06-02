@@ -247,6 +247,71 @@ What It Means to Be Functional ?
 
  ![Image](img/functional_concepts_part1.png "functional_concepts_part1.png") 
 
+ ![Image](img/functional_concepts_part2.png "functional_concepts_part2.png")  
+
+ ![Image](img/functional_concepts_part3.png "functional_concepts_part3.png") 
+
+![Image](img/functional_concepts_part4.png "functional_concepts_part4.png") 
+
+![Image](img/functional_concepts_part5.png "functional_concepts_part5.png") 
+
+![Image](img/functional_concepts_part6.png "functional_concepts_part6.png")
+
+![Image](img/functional_concepts_part7.png "functional_concepts_part7.png")
+
+![Image](img/functional_concepts_part8.png "functional_concepts_part8.png")
+
+![Image](img/functional_concepts_part9.png "functional_concepts_part9.png")
+
+![Image](img/functional_concepts_part10.png "functional_concepts_part10.png")
+
+![Image](img/functional_concepts_part12.png "functional_concepts_part12.png")
+
+![Image](img/functional_concepts_part13.png "functional_concepts_part13.png")
+
+![Image](img/functional_concepts_part14.png "functional_concepts_part14.png")
+
+![Image](img/functional_concepts_part15.png "functional_concepts_part15.png")
+
+![Image](img/functional_concepts_part16.png "functional_concepts_part16.png")
+
+![Image](img/functional_concepts_part17.png "functional_concepts_part17.png")
+
+![Image](img/functional_concepts_part18.png "functional_concepts_part18.png")
+
+![Image](img/functional_concepts_part19.png "functional_concepts_part19.png")
+
+![Image](img/functional_concepts_part20.png "functional_concepts_part20.png")
+
+![Image](img/functional_concepts_part21.png "functional_concepts_part21.png")
+
+![Image](img/functional_concepts_part22.png "functional_concepts_part22.png")
+
+![Image](img/functional_concepts_part23.png "functional_concepts_part23.png")
+
+![Image](img/functional_concepts_part24.png "functional_concepts_part24.png")
+
+![Image](img/functional_concepts_part25.png "functional_concepts_part25.png")
+
+![Image](img/functional_concepts_part26.png "functional_concepts_part26.png")
+
+![Image](img/functional_concepts_part27.png "functional_concepts_part27.png")
+
+![Image](img/functional_concepts_part28.png "functional_concepts_part28.png")
+
+![Image](img/functional_concepts_part29.png "functional_concepts_part29.png")
+
+![Image](img/functional_concepts_part30.png "functional_concepts_part30.png")
+
+![Image](img/functional_concepts_part31.png "functional_concepts_part31.png")
+
+![Image](img/functional_concepts_part32.png "functional_concepts_part32.png")
+
+![Image](img/functional_concepts_part33.png "functional_concepts_part33.png")
+
+![Image](img/functional_concepts_part34.png "functional_concepts_part34.png")
+
+![Image](img/functional_concepts_part35.png "functional_concepts_part35.png")
 
 
 </details>
