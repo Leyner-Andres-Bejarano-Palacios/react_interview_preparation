@@ -208,3 +208,19 @@ Alex Banks anf Eve Porcello learning React Pag 24
 
 https://www.youtube.com/watch?v=tieV1n0NFPM&t=378s
 </details>
+
+### Theorical Question 12
+
+Do you know what the modules are in React ?
+
+<details><summary><b>Answer</b></summary>
+
+ ![Image](img/modules_part1.png "modules_part1.png")
+
+ ![Image](img/modules_part2.png "modules_part2.png") 
+
+</details>
+
+<details><summary><b>Source</b></summary>
+Alex Banks anf Eve Porcello learning React Pag 24
+</details>
