@@ -224,3 +224,33 @@ Do you know what the modules are in React ?
 <details><summary><b>Source</b></summary>
 Alex Banks anf Eve Porcello learning React Pag 24
 </details>
+
+### Theorical Question 13
+
+What It Means to Be Functional ?
+
+<details><summary><b>Answer</b></summary>
+
+ ![Image](img/what_functional_mean_part1.png "what_functional_mean_part1.png")
+
+ ![Image](img/what_functional_mean_part2.png "what_functional_mean_part2.png")
+
+ ![Image](img/what_functional_mean_part3.png "what_functional_mean_part3.png")
+
+ ![Image](img/what_functional_mean_part4.png "what_functional_mean_part4.png")
+
+ ![Image](img/imperative_vs_declarative_part1.png "imperative_vs_declarative_part1.png")
+
+ ![Image](img/imperative_vs_declarative_part2.png "imperative_vs_declarative_part2.png")
+
+ ![Image](img/imperative_vs_declarative_part3.png "imperative_vs_declarative_part3.png")
+
+ ![Image](img/functional_concepts_part1.png "functional_concepts_part1.png") 
+
+
+
+</details>
+
+<details><summary><b>Source</b></summary>
+Alex Banks anf Eve Porcello learning React Pag 32
+</details>
