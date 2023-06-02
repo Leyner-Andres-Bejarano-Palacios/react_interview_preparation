@@ -192,3 +192,19 @@ Do you know what the spread operator is in React ?
 <details><summary><b>Source</b></summary>
 Alex Banks anf Eve Porcello learning React Pag 19
 </details>
+
+### Theorical Question 11
+
+Do you know what the promises are in React ?
+
+<details><summary><b>Answer</b></summary>
+
+ ![Image](img/promises_react.png "promises_react.png")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+Alex Banks anf Eve Porcello learning React Pag 24
+
+https://www.youtube.com/watch?v=tieV1n0NFPM&t=378s
+</details>
