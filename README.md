@@ -347,3 +347,17 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 <details><summary><b>Source</b></summary>
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then
 </details>
+
+### Theorical Question 16
+
+Do you  understand the difference between == and === in  React ?
+
+<details><summary><b>Answer</b></summary>
+
+https://codeahoy.com/javascript/2019/10/12/==-vs-===-in-javascript/#:~:text=The%20difference%20between%20%3D%3D%20and%20%3D%3D%3D%20is%20that%3A,the%20two%20variables%20being%20compared.
+
+</details>
+
+<details><summary><b>Source</b></summary>
+https://codeahoy.com/javascript/2019/10/12/==-vs-===-in-javascript/#:~:text=The%20difference%20between%20%3D%3D%20and%20%3D%3D%3D%20is%20that%3A,the%20two%20variables%20being%20compared.
+</details>
