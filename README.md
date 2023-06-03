@@ -319,3 +319,31 @@ What It Means to Be Functional ?
 <details><summary><b>Source</b></summary>
 Alex Banks anf Eve Porcello learning React Pag 32
 </details>
+
+### Theorical Question 14
+
+Do you  understand what compose does in  React ?
+
+<details><summary><b>Answer</b></summary>
+
+https://redux.js.org/api/compose 
+
+</details>
+
+<details><summary><b>Source</b></summary>
+https://redux.js.org/api/compose
+</details>
+
+### Theorical Question 15
+
+Do you  understand what then does in  React ?
+
+<details><summary><b>Answer</b></summary>
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then
+
+</details>
+
+<details><summary><b>Source</b></summary>
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then
+</details>
