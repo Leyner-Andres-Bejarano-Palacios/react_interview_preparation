@@ -361,3 +361,27 @@ https://codeahoy.com/javascript/2019/10/12/==-vs-===-in-javascript/#:~:text=The%
 <details><summary><b>Source</b></summary>
 https://codeahoy.com/javascript/2019/10/12/==-vs-===-in-javascript/#:~:text=The%20difference%20between%20%3D%3D%20and%20%3D%3D%3D%20is%20that%3A,the%20two%20variables%20being%20compared.
 </details>
+
+### Theorical Question 16
+
+Do you  understand thewhat the React and ReactDOM does  React and why they were separated ?
+
+<details><summary><b>Answer</b></summary>
+
+React is the library for creating views. ReactDOM is the library used
+to actually render the UI in the browser.
+
+Views are all of the elements that the user can see in the UI.
+
+React and ReactDOM were split into two packages for version 0.14. The release notes
+state: “The beauty and the essence of React has nothing to do with browsers or the
+DOM... This [splitting into two packages] paves the way to writing components that
+can be shared between the web version of React and React Native.” 1 Instead of assum‐
+ing that React will render only in the browser, future releases will aim to support rendering for a variety of platforms.
+
+</details>
+
+<details><summary><b>Source</b></summary>
+Alex Banks anf Eve Porcello learning React Pag 59
+</details>
+
