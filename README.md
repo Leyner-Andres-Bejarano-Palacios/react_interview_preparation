@@ -459,4 +459,52 @@ The two main benefits of modular bundling are modularity and network performance
 Alex Banks anf Eve Porcello learning React Pag 93
 </details>
 
+### Theorical Question 21
+
+Do you  know what Property Validation / props is in React ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/property_validation_part1.png "property_validation_part1.png")
+
+![Image](img/property_validation_part2.png "property_validation_part2.png")
+
+![Image](img/property_validation_part3.png "property_validation_part3.png")
+
+![Image](img/property_validation_part4.png "property_validation_part4.png")
+
+![Image](img/property_validation_part5.png "property_validation_part5.png")
+
+![Image](img/property_validation_part6.png "property_validation_part6.png")
+
+![Image](img/property_validation_part7.png "property_validation_part7.png")
+
+![Image](img/property_validation_part8.png "property_validation_part8.png")
+
+![Image](img/property_validation_part9.png "property_validation_part9.png")
+
+![Image](img/property_validation_part10.png "property_validation_part10.png")
+
+![Image](img/property_validation_part11.png "property_validation_part11.png")
+
+![Image](img/property_validation_part12.png "property_validation_part12.png")
+</details>
+
+<details><summary><b>Source</b></summary>
+Alex Banks anf Eve Porcello learning React Pag 93
+</details>
+
+### Theorical Question 22
+
+Do you  know what Reference / refs are in React ?
+
+<details><summary><b>Answer</b></summary>
+
+.........
+</details>
+
+<details><summary><b>Source</b></summary>
+Alex Banks anf Eve Porcello learning React Pag 93
+</details>
+
 
