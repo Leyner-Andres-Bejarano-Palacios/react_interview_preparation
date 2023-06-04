@@ -385,3 +385,78 @@ ing that React will render only in the browser, future releases will aim to supp
 Alex Banks anf Eve Porcello learning React Pag 59
 </details>
 
+
+### Theorical Question 17
+
+Do you  know what jsx is ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/jsx_part1.png "jsx_part1.png")
+
+![Image](img/jsx_part2.png "jsx_part2.png")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+Alex Banks anf Eve Porcello learning React Pag 84
+</details>
+
+### Theorical Question 18
+
+Do you  know what babel is ?
+
+<details><summary><b>Answer</b></summary>
+
+Most software languages allow you to compile your source code. JavaScript is an
+interpreted language: the browser interprets the code as text, so there is no need to
+compile JavaScript. However, not all browsers support the latest ES6 and ES7 syntax,
+and no browser supports JSX syntax. Since we want to use the latest features of Java‐
+Script along with JSX, we are going to need a way to convert our fancy source code
+into something that the browser can interpret. This process is called transpiling, and
+it is what Babel is designed to do
+
+</details>
+
+<details><summary><b>Source</b></summary>
+Alex Banks anf Eve Porcello learning React Pag 84
+</details>
+
+### Theorical Question 19
+
+Do you  know what commonJS is ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/commonJS.png "commonJS.png")
+</details>
+
+<details><summary><b>Source</b></summary>
+Alex Banks anf Eve Porcello learning React Pag 28
+</details>
+
+### Theorical Question 20
+
+Do you  know what webpack is ?
+
+<details><summary><b>Answer</b></summary>
+
+Once we start working in production with React, there are a lot of questions to con‐
+sider: How do we want to deal with JSX and ES6+ transformation? How can we man‐
+age our dependencies? How can we optimize our images and CSS?
+
+Many different tools have emerged to answer these questions, including Browserify,
+Gulp, and Grunt. Due to its features and widespread adoption by large companies,
+webpack has also emerged as one of the leading tools for bundling CommonJS mod‐
+ules.
+
+Webpack is billed as a module bundler. A module bundler takes all of our different
+files (JavaScript, LESS, CSS, JSX, ES6, and so on) and turns them into a single file.
+The two main benefits of modular bundling are modularity and network performance.
+</details>
+
+<details><summary><b>Source</b></summary>
+Alex Banks anf Eve Porcello learning React Pag 93
+</details>
+
+
