@@ -508,11 +508,37 @@ Do you  know what Reference / refs are in React ?
 
 ![Image](img/ref_part4.png "ref_part4.png")
 
+![Image](img/ref_part5.png "ref_part5.png")
+
 </details>
 
 <details><summary><b>Source</b></summary>
 Alex Banks anf Eve Porcello learning React Pag 119
 </details>
 
-I'm currently in pag 119
+### Theorical Question 23
+
+How do we manage state in React ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/state_management_part1.png "state_management_part1.png")
+
+![Image](img/state_management_part2.png "state_management_part2.png")
+
+![Image](img/state_mangment_part3.png "state_mangment_part3.png")
+
+![Image](img/state_managment_part4.png "state_managment_part4.png")
+
+![Image](img/state_managment_part5.png "state_managment_part5.png")
+
+![Image](img/state_managment_part7.png "state_managment_part7.png")
+
+![Image](img/state_managment_part8.png "state_managment_part8.png")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+Alex Banks anf Eve Porcello learning React Pag 123
+</details>
 
