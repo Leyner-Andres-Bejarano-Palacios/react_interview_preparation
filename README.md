@@ -500,11 +500,19 @@ Do you  know what Reference / refs are in React ?
 
 <details><summary><b>Answer</b></summary>
 
-.........
+![Image](img/ref_part1.png "ref_part1.png")
+
+![Image](img/ref_part2.png "ref_part2.png")
+
+![Image](img/ref_part3.png "ref_part3.png")
+
+![Image](img/ref_part4.png "ref_part4.png")
+
 </details>
 
 <details><summary><b>Source</b></summary>
-Alex Banks anf Eve Porcello learning React Pag 93
+Alex Banks anf Eve Porcello learning React Pag 119
 </details>
 
+I'm currently in pag 119
 
