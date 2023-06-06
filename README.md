@@ -542,3 +542,46 @@ How do we manage state in React ?
 Alex Banks anf Eve Porcello learning React Pag 123
 </details>
 
+### Theorical Question 24
+
+Do you know what the single source of thruth means in React ?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/single_source_of_truth.png "single_source_of_truth.png")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+Alex Banks anf Eve Porcello learning React Pag 132
+</details>
+
+### Theorical Question 25
+
+How would you turn a component into a presentational component?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/presentational_component_part1.png "presentational_component_part1.png")
+
+![Image](img/presentational_component_part2.png "presentational_component_part2.png")
+
+![Image](img/presentational_component_part3.png "presentational_component_part3.png")
+
+![Image](img/presentational_component_part4.png "presentational_component_part4.png")
+
+![Image](img/presentational_component_part5.png "presentational_component_part5.png")
+
+![Image](img/presentational_component_part6.png "presentational_component_part6.png")
+
+![Image](img/presentational_component_part7.png "presentational_component_part7.png")
+
+![Image](img/presentational_component_part8.png "presentational_component_part8.png")
+
+![Image](img/presentational_component_part9.png "presentational_component_part9.png")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+Alex Banks anf Eve Porcello learning React Pag 132
+</details>
