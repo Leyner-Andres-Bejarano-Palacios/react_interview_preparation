@@ -637,3 +637,22 @@ nent lifecycle. There are two primary lifecycles: the mounting lifecycle and the
 <details><summary><b>Source</b></summary>
 Alex Banks anf Eve Porcello learning React Pag 158
 </details>
+
+### Theorical Question 27
+
+Do you understand why is not good idea to use jquery with react ?
+
+<details><summary><b>Answer</b></summary>
+
+Using jQuery with React is generally frowned upon by the community. It is possible to integrate jQuery and React, and the integration
+could be a good choice for learning React or migrating legacy code
+to React. However, applications perform much better if we incorporate smaller libraries with React, as opposed to large frameworks.
+Additionally, using jQuery to manipulate the DOM directly
+bypasses the virtual DOM, which can lead to strange errors.
+
+
+</details>
+
+<details><summary><b>Source</b></summary>
+Alex Banks anf Eve Porcello learning React Pag 158
+</details>
