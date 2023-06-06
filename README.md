@@ -585,3 +585,55 @@ How would you turn a component into a presentational component?
 <details><summary><b>Source</b></summary>
 Alex Banks anf Eve Porcello learning React Pag 132
 </details>
+
+### Theorical Question 26
+
+Do you understand what is the component lifecycle ?
+
+<details><summary><b>Answer</b></summary>
+
+The component lifecycle consists of methods that are invoked in series when a com‐
+ponent is mounted or updated. These methods are invoked either before or after the
+component renders the UI. In fact, the render method itself is a part of the compo‐
+nent lifecycle. There are two primary lifecycles: the mounting lifecycle and the updating lifecycle.
+
+![Image](img/component_lifecycle_part1.png "component_lifecycle_part1.png")
+
+![Image](img/component_lifecycle_part2.png "component_lifecycle_part2.png")
+
+![Image](img/component_lifecycle_part3.png "component_lifecycle_part3.png")
+
+![Image](img/component_lifecycle_part4.png "component_lifecycle_part4.png")
+
+![Image](img/component_lifecycle_part5.png "component_lifecycle_part5.png")
+
+![Image](img/component_lifecycle_part6.png "component_lifecycle_part6.png")
+
+![Image](img/component_lifecycle_part7.png "component_lifecycle_part7.png")
+
+![Image](img/component_lifecycle_part8.png "component_lifecycle_part8.png")
+
+![Image](img/component_lifecycle_part9.png "component_lifecycle_part9.png")
+
+![Image](img/component_lifecycle_part10.png "component_lifecycle_part10.png")
+
+![Image](img/component_lifecycle_part11.png "component_lifecycle_part11.png")
+
+![Image](img/component_lifecycle_part12.png "component_lifecycle_part12.png")
+
+![Image](img/component_lifecycle_part13.png "component_lifecycle_part13.png")
+
+![Image](img/component_lifecycle_part14.png "component_lifecycle_part14.png")
+
+![Image](img/component_lifecycle_part15.png "component_lifecycle_part15.png")
+
+![Image](img/component_lifecyle_part16.png "component_lifecyle_part16.png")
+
+![Image](img/component_lifecycle_part17.png "component_lifecycle_part17.png")
+
+
+</details>
+
+<details><summary><b>Source</b></summary>
+Alex Banks anf Eve Porcello learning React Pag 158
+</details>
