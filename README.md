@@ -782,6 +782,22 @@ What are actions, reducers, the store and middleware in redux?
 
 ![Image](img/redux_reducers_part8.png "redux_reducers_part8.png")
 
+![Image](img/redux_store_part1.png "redux_store_part1.png")
+
+![Image](img/redux_store_part2.png "redux_store_part2.png")
+
+![Image](img/redux_store_part3.png "redux_store_part3.png")
+
+![Image](img/redux_store_part4.png "redux_store_part4.png")
+
+![Image](img/redux_store_part5.png "redux_store_part5.png")
+
+![Image](img/redux_store_part6.png "redux_store_part6.png")
+
+![Image](img/redux_store_part7.png "redux_store_part7.png")
+
+![Image](img/redux_store_part8.png "redux_store_part8.png")
+
 
 
 </details>
