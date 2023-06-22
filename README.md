@@ -656,3 +656,138 @@ bypasses the virtual DOM, which can lead to strange errors.
 <details><summary><b>Source</b></summary>
 Alex Banks anf Eve Porcello learning React Pag 158
 </details>
+
+
+### Theorical Question 28
+
+Do you know what pollifyl is ?
+
+<details><summary><b>Answer</b></summary>
+
+A polyfill allows you to use features that are not supported by a browser (or a specific browser version) by adding a fallback that mimics the desired behavior using supported APIs. 
+
+
+</details>
+
+<details><summary><b>Source</b></summary>
+https://blog.logrocket.com/use-polyfills-react-app/
+</details>
+
+
+### Theorical Question 29
+
+Do you know what higher-order component is ?
+
+<details><summary><b>Answer</b></summary>
+
+A higher-order component, or HOC, is a simply a function that takes a React compo‐
+nent as an argument and returns another React component. Typically, HOCs wrap
+the incoming component with a class that maintains state or has functionality.
+Higher-order components are the best way to reuse functionality across React com‐
+ponents.
+
+</details>
+
+<details><summary><b>Source</b></summary>
+https://blog.logrocket.com/use-polyfills-react-app/
+</details>
+
+### Theorical Question 30
+
+Do you know what is Flux ?
+
+<details><summary><b>Answer</b></summary>
+
+Flux is a design pattern developed at Facebook that was designed to keep data flowing
+in one direction. Before Flux was introduced, web development architecture was
+dominated by variations of the MVC design pattern. Flux is an alternative to MVC,
+an entirely different design pattern that complements the functional approach.
+
+![Image](img/flux_part1.png "flux_part1.png")
+
+![Image](img/flux_part2.png "flux_part2.png")
+
+![Image](img/flux_part3.png "flux_part3.png")
+
+![Image](img/flux_part4.png "flux_part4.png")
+
+![Image](img/flux_part5.png "flux_part5.png")
+
+![Image](img/flux_part6.png "flux_part6.png")
+
+
+</details>
+
+<details><summary><b>Source</b></summary>
+Alex Banks anf Eve Porcello learning React Pag 174
+</details>
+
+### Theorical Question 31
+
+In Reduc do you understand what reducers are ?
+
+<details><summary><b>Answer</b></summary>
+
+Reducers are pure functions that return a new state
+based on the current state and an action: (state, action) => newState .
+
+</details>
+
+<details><summary><b>Source</b></summary>
+Alex Banks anf Eve Porcello learning React Pag 174
+</details>
+
+### Theorical Question 32
+
+How do we handle state in redux?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/redux_state_part1.png "redux_state_part1.png")
+
+![Image](img/redux_state_part2.png "redux_state_part2.png")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+
+</details>
+
+
+### Theorical Question 33
+
+What are actions, reducers, the store and middleware in redux?
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/redux_actions_part1.png "redux_actions_part1.png")
+
+![Image](img/redux_actions_part2.png "redux_actions_part2.png")
+
+![Image](img/redux_actions_part3.png "redux_actions_part3.png")
+
+![Image](img/redux_reducers_part1.png "redux_reducers_part1.png")
+
+![Image](img/redux_reducers_part2.png "redux_reducers_part2.png")
+
+![Image](img/redux_reducers_part3.png "redux_reducers_part3.png")
+
+![Image](img/redux_reducers_part4.png "redux_reducers_part4.png")
+
+![Image](img/redux_reducers_part5.png "redux_reducers_part5.png")
+
+![Image](img/redux_reducers_part6.png "redux_reducers_part6.png")
+
+![Image](img/redux_reducers_part7.png "redux_reducers_part7.png")
+
+![Image](img/redux_reducers_part8.png "redux_reducers_part8.png")
+
+
+
+</details>
+
+<details><summary><b>Source</b></summary>
+
+Alex Banks anf Eve Porcello learning React Pag 187
+
+</details>
