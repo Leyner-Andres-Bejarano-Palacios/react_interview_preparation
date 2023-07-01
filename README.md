@@ -807,3 +807,73 @@ What are actions, reducers, the store and middleware in redux?
 Alex Banks anf Eve Porcello learning React Pag 187
 
 </details>
+
+### Theorical Question 34
+
+React component names must always start with a capital letter (remember this point)
+
+<details><summary><b>Answer</b></summary>
+
+.........
+
+
+
+</details>
+
+<details><summary><b>Source</b></summary>
+
+https://react.dev/learn
+
+</details>
+
+### Theorical Question 35
+
+Do you know how to add css to your componenets ?
+
+<details><summary><b>Answer</b></summary>
+
+https://react.dev/learn#adding-styles
+</details>
+
+<details><summary><b>Source</b></summary>
+
+https://react.dev/learn#adding-styles
+
+</details>
+
+### Theorical Question 36
+
+Do you know what this syntax is doing ?
+
+```html
+<div>
+  {isLoggedIn ? (
+    <AdminPanel />
+  ) : (
+    <LoginForm />
+  )}
+</div>
+```
+
+<details><summary><b>Answer</b></summary>
+
+https://react.dev/learn#adding-styles
+</details>
+
+<details><summary><b>Source</b></summary>
+
+https://react.dev/learn#adding-styles
+
+</details>
+
+
+## Theorical Questions Section
+
+1. Downloading the node.js docker image
+    1.  source: https://hub.docker.com/_/node/tags
+    2.  command: docker pull node:18.16-bullseye-slim
+    3.  github: https://github.com/nodejs/docker-node
+        1.  docker run -p 3000:3000 -it --rm --name my-running-app my-nodejs-app
+    4.  creating_first_react: https://www.freecodecamp.org/news/install-react-with-create-react-app/
+    5.  
+    
