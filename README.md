@@ -909,6 +909,28 @@ https://react.dev/reference/react/useCallback
 
 </details>
 
+### Theorical Question 40
+
+Do you understand what the reactive values/dependecies are for in (the orange text) useCallback hook ?
+
+
+
+<details><summary><b>Answer</b></summary>
+
+![Image](img/orangeLettersUseCallback.png "orangeLettersUseCallback.png")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+https://react.dev/reference/react/useCallback
+
+</details>
+
+## TroubleShooting
+
+1. React Native Error: ENOSPC: System limit for number of file watchers reached
+  1.  https://stackoverflow.com/questions/55763428/react-native-error-enospc-system-limit-for-number-of-file-watchers-reached
+
 ## Theorical Questions Section
 
 1. Downloading the node.js docker image
@@ -926,5 +948,8 @@ https://react.dev/reference/react/useCallback
       4.  npx create-react-app my-app
       5. cd my-app
       6. npm start
-    5.  
+    5.  extracring everything
+      1.  docker cp 7d10f8a2560b:/home/my-app  $(pwd)/v1/
+
+  
     
