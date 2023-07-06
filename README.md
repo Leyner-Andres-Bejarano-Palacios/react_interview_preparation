@@ -866,6 +866,48 @@ https://react.dev/learn#adding-styles
 
 </details>
 
+### Theorical Question 37
+
+How do you recognize a hook in react ?
+
+<details><summary><b>Answer</b></summary>
+Functions starting with use are called Hooks. useState is a built-in Hook provided by React.
+</details>
+
+<details><summary><b>Source</b></summary>
+https://react.dev/learn#using-hooks
+
+</details>
+
+### Theorical Question 38
+
+What hooks do you know ?
+
+<details><summary><b>Answer</b></summary>
+
+</details>
+
+<details><summary><b>Source</b></summary>
+https://react.dev/reference/react
+
+</details>
+
+### Theorical Question 39
+
+When do you use the useCallback hook ?
+
+<details><summary><b>Answer</b></summary>
+
+useCallback is a React Hook that lets you cache a function definition between re-renders.
+
+const cachedFn = useCallback(fn, dependencies)
+
+</details>
+
+<details><summary><b>Source</b></summary>
+https://react.dev/reference/react/useCallback
+
+</details>
 
 ## Theorical Questions Section
 
@@ -873,7 +915,16 @@ https://react.dev/learn#adding-styles
     1.  source: https://hub.docker.com/_/node/tags
     2.  command: docker pull node:18.16-bullseye-slim
     3.  github: https://github.com/nodejs/docker-node
-        1.  docker run -p 3000:3000 -it --rm --name my-running-app my-nodejs-app
+        1.  docker build -t my-nodejs-app . 
+        2.  docker run -p 3000:3000 -it --rm --name my-running-app my-nodejs-app
+        3.  docker exec -it 7d10f8a2560b  bash
     4.  creating_first_react: https://www.freecodecamp.org/news/install-react-with-create-react-app/
+      1.  node -v
+      2.  npm -v
+      3. if you need to update
+        1.  npm install -g npm
+      4.  npx create-react-app my-app
+      5. cd my-app
+      6. npm start
     5.  
     
