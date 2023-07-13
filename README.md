@@ -926,12 +926,75 @@ https://react.dev/reference/react/useCallback
 
 </details>
 
+### Theorical Question 41
+
+Do you understand when should you use useCallback instead of memo ?
+
+<details><summary><b>Answer</b></summary>
+
+In JavaScript, a function () {} or () => {} always creates a different function, similar to how the {} object literal always creates a new object. Normally, this wouldn’t be a problem, but it means that ShippingForm props will never be the same, and your memo optimization won’t work. 
+
+If your app is like this site, and most interactions are coarse (like replacing a page or an entire section), memoization is usually unnecessary. On the other hand, if your app is more like a drawing editor, and most interactions are granular (like moving shapes), then you might find memoization very helpful.
+
+Caching a function with useCallback  is only valuable in a few cases:
+
+You pass it as a prop to a component wrapped in memo. You want to skip re-rendering if the value hasn’t changed. Memoization lets your component re-render only if dependencies changed.
+The function you’re passing is later used as a dependency of some Hook. For example, another function wrapped in useCallback depends on it, or you depend on this function from useEffect.
+
+In practice, you can make a lot of memoization unnecessary by following a few principles:
+
+When a component visually wraps other components, let it accept JSX as children. Then, if the wrapper component updates its own state, React knows that its children don’t need to re-render.
+Prefer local state and don’t lift state up any further than necessary. Don’t keep transient state like forms and whether an item is hovered at the top of your tree or in a global state library.
+Keep your rendering logic pure. If re-rendering a component causes a problem or produces some noticeable visual artifact, it’s a bug in your component! Fix the bug instead of adding memoization.
+Avoid unnecessary Effects that update state. Most performance problems in React apps are caused by chains of updates originating from Effects that cause your components to render over and over.
+Try to remove unnecessary dependencies from your Effects. For example, instead of memoization, it’s often simpler to move some object or a function inside an Effect or outside the component.
+If a specific interaction still feels laggy, use the React Developer Tools profiler to see which components benefit the most from memoization, and add memoization where needed. These principles make your components easier to debug and understand, so it’s good to follow them in any case. In long term, we’re researching doing memoization automatically to solve this once and for all.
+
+</details>
+
+<details><summary><b>Source</b></summary>
+https://react.dev/reference/react/useCallback
+
+</details>
+
+### Theorical Question 42
+
+Do you know what is the context in react ?
+
+<details><summary><b>Answer</b></summary>
+
+Usually, you will pass information from a parent component to a child component via props. But passing props can become verbose and inconvenient if you have to pass them through many components in the middle, or if many components in your app need the same information. Context lets the parent component make some information available to any component in the tree below it—no matter how deep—without passing it explicitly through props.
+
+</details>
+
+<details><summary><b>Source</b></summary>
+https://react.dev/reference/react/useContext
+
+</details>
+
+### Theorical Question 43
+
+Do you know what useDebugValue ?
+
+<details><summary><b>Answer</b></summary>
+
+useDebugValue is a React Hook that lets you add a label to a custom Hook in React DevTools.
+
+![Image](img/useDebugValue.png "useDebugValue.png")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+https://react.dev/reference/react/useDebugValue
+
+</details>
+
 ## TroubleShooting
 
 1. React Native Error: ENOSPC: System limit for number of file watchers reached
   1.  https://stackoverflow.com/questions/55763428/react-native-error-enospc-system-limit-for-number-of-file-watchers-reached
 
-## Theorical Questions Section
+## Running the practice
 
 1. Downloading the node.js docker image
     1.  source: https://hub.docker.com/_/node/tags
