@@ -989,6 +989,27 @@ https://react.dev/reference/react/useDebugValue
 
 </details>
 
+### Theorical Question 44
+
+Do you know what useDeferredValue is for ?
+
+<details><summary><b>Answer</b></summary>
+
+useDeferredValue is a React Hook that lets you defer updating a part of the UI.
+
+![Image](img/useDeferredValue.png "useDeferredValue.png")
+
+![Image](img/useDeferredValue_part2.png "useDeferredValue_part2.png")
+
+![Image](img/useDeferredValues_part3.png "useDeferredValues_part3.png")
+
+</details>
+
+<details><summary><b>Source</b></summary>
+https://react.dev/reference/react/useDebugValue
+
+</details>
+
 ## TroubleShooting
 
 1. React Native Error: ENOSPC: System limit for number of file watchers reached
