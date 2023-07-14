@@ -1010,6 +1010,28 @@ https://react.dev/reference/react/useDebugValue
 
 </details>
 
+### Theorical Question 45
+
+Do you know what useEffect is for ?
+
+<details><summary><b>Answer</b></summary>
+
+useEffect is a React Hook that lets you synchronize a component with an external system.
+
+![Image](img/useEffect_part1.png "useEffect_part1.png")
+
+![Image](img/useEffect_part2.png "useEffect_part2.png")
+
+![Image](img/useEffect_part3.png "useEffect_part3.png")
+
+
+</details>
+
+<details><summary><b>Source</b></summary>
+https://react.dev/reference/react/useEffect
+
+</details>
+
 ## TroubleShooting
 
 1. React Native Error: ENOSPC: System limit for number of file watchers reached
